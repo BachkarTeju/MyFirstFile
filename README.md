@@ -3,12 +3,12 @@
 * Good morning to everyone
 * have a nice day!
   
-  *In italic I look like a swing*
+  *In italic I its look like in this way*
 # Its a monday
-## Today is a Nagpanchmi festival of hindu religion
+## 
 ### Project demo
 ~~This was mistaken text~~
-`#ffffff` 
+
   
 <h1> hiii</h1>
 
