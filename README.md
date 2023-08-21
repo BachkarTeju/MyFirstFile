@@ -4,4 +4,4 @@
 * have a nice day!
 <h1> hiii</h1>
 <strong>well done</strong>
-*bold*
+~bold
