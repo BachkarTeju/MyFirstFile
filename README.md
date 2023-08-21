@@ -1,5 +1,5 @@
 # MyFirstFile
 ## Welcome Here!
 * Good morning to everyone
-* *have a nice day!
+* * have a nice day!
   
