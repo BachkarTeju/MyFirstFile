@@ -4,7 +4,7 @@
 * have a nice day!
   
   *In italic I look like a swing*
-  ~hi
+  ~hi~
   
 <h1> hiii</h1>
 
