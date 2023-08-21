@@ -8,8 +8,6 @@
 ## 
 ### Project demo
 ~~This was mistaken text~~
-
-  
 <h1> hiii</h1>
 
 <strong>well done</strong>
